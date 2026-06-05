@@ -1,0 +1,3 @@
+tarea 1|False
+Tarea 2|True
+Tarea 3|True
